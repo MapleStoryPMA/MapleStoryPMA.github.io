@@ -1,2 +1,2 @@
-# MapleStoryPMA.github.io
+# maplestory.github.io
 My first website ever
